@@ -111,7 +111,7 @@ export default function GiftUnlock({ onClose }: { onClose: () => void }) {
                 <Sparkles className="text-yellow-500 animate-bounce" size={40} />
               </div>
               <h2 className="text-5xl font-bold text-pink-600 mb-4 font-[var(--font-dancing-script)] animate-glow">
-                Congratulations! 🎉
+                Congratulations bachchaaa! 🎉
               </h2>
               <p className="text-xl text-purple-600 font-semibold">You've unlocked the most precious gift of all...</p>
             </div>
@@ -121,7 +121,7 @@ export default function GiftUnlock({ onClose }: { onClose: () => void }) {
                 <div className="text-center mb-8">
                   <Heart className="mx-auto mb-4 text-red-500 animate-heartbeat" size={48} fill="currentColor" />
                   <h3 className="text-4xl font-bold text-pink-600 mb-6 font-[var(--font-dancing-script)]">
-                    My Promise to You
+                    This is your Gift: Me and my Promises to You...
                   </h3>
                 </div>
 
@@ -152,7 +152,7 @@ export default function GiftUnlock({ onClose }: { onClose: () => void }) {
                         <Sparkles className="mx-auto mb-3 text-yellow-500" size={32} />
                         <h4 className="text-lg font-bold text-yellow-700 mb-2">Endless Laughter</h4>
                         <p className="text-yellow-600">
-                          I promise to make you smile every day and laugh until your cheeks hurt.
+                          I promise to make you smile every day and laugh until your cheeks and stomach hurt.
                         </p>
                       </Card>
 
@@ -160,19 +160,19 @@ export default function GiftUnlock({ onClose }: { onClose: () => void }) {
                         <Gift className="mx-auto mb-3 text-green-500" size={32} />
                         <h4 className="text-lg font-bold text-green-700 mb-2">Surprise & Delight</h4>
                         <p className="text-green-600">
-                          Every day with you is a gift, and I'll keep surprising you with my love.
+                          Every day with you is a gift, and I'll keep surprising you with my love every second.
                         </p>
                       </Card>
                     </div>
 
                     <div className="mt-8 p-6 bg-gradient-to-r from-pink-200 to-purple-200 rounded-2xl">
                       <p className="text-xl md:text-2xl text-purple-800 font-bold">
-                        Happy Birthday, my beautiful Dholi Ji! 🎂
+                        Happy Birthday, my beautiful umpkiee-pumpkiee cutiepie Dholi Ji! 🎂
                       </p>
                       <p className="text-lg text-purple-700 mt-2">
-                        You are my greatest gift, my sweetest dream come true, and my forever love.
+                        You are my greatest gift, my sweetest dream come true, and my forever love.. Wait for more gifts till tomorrow..
                       </p>
-                      <p className="text-2xl mt-4 font-bold text-pink-600">I LOVE YOU SBSE JYADAAAAAAA! 💕</p>
+                      <p className="text-2xl mt-4 font-bold text-pink-600">I LOVE YOU SBSE SBSE JYADAAAAAAAA! 💕</p>
                     </div>
                   </div>
                 </div>
@@ -198,7 +198,7 @@ export default function GiftUnlock({ onClose }: { onClose: () => void }) {
                 onClick={onClose}
                 className="bg-gradient-to-r from-pink-500 to-purple-500 hover:from-pink-600 hover:to-purple-600 text-white px-8 py-4 rounded-full text-lg font-semibold"
               >
-                Keep This Memory Forever 💖
+                Keep This Memory Forever with you ji...💖
               </Button>
             </div>
           </div>

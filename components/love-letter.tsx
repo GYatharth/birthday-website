@@ -24,15 +24,15 @@ As I sit here writing this letter, my heart is overflowing with so much love for
 
 Your smile lights up my entire world. When you laugh, it's like music to my ears - the most beautiful melody I've ever heard. Your eyes sparkle with such warmth and kindness that I get lost in them every single time I look at you.
 
-Do you remember our first selfie together? I was so nervous, but you made everything feel so natural and perfect. That's just who you are - you make everything better just by being yourself.
+Do you remember our first selfie together? I was so nervous, but you made everything feel so natural and perfect. That's just who you are - you make everything better just by being yourself, just like our fisrt kissiieee ji.
 
-I love how we can be completely silly together, burning dinner and laughing about it until our stomachs hurt. I love our movie nights where I pretend to watch but I'm really just watching you, amazed by how lucky I am.
+I love how we can be completely silly together, burning dishes and laughing about it until our stomachs hurt. I love our dates where I pretend to watch something else everytime...but I'm really just watching you, amazed by how lucky I am.
 
-You call me your Kuchu-puchu, but honestly, you're MY everything. You're my best friend, my partner in crime, my safe place, and my greatest adventure all rolled into one perfect person.
+You call me your Genie, but honestly, you're MY EVERYTHING, my real "GENIE", the one who held me when I lost my all the trust and when I needed "LOVE" the most. You're my best friend, my partner in crime, my safe place, and my greatest adventure all rolled into one perfect girl.
 
 I love you SBSE JYADAAAAAAA - more than all the stars in the sky, more than all the grains of sand on every beach, more than words could ever express.
 
-On this special day, I want you to know that you deserve all the happiness in the world. You deserve to be celebrated not just today, but every single day. You are extraordinary, beautiful, kind, funny, and absolutely perfect just the way you are.
+On this special occasion, I want you to know that you deserve all the happiness in the world. You deserve to be celebrated not just today, but every single day. You are extraordinary, beautiful, kind, funny, and absolutely perfect just the way you are.
 
 Thank you for being you. Thank you for loving me. Thank you for making every ordinary moment feel magical.
 
@@ -40,12 +40,14 @@ I can't wait to create a million more memories with you, to laugh until we cry, 
 
 You are my forever and always, my today and all my tomorrows.
 
-Happy Birthday, my love! 🎂💕
+Happiest Birthday, my kuchu-puchu babieeee girl 🎂💕
 
 All my love,
-Your devoted admirer ❤️
+Yours Billu Ji❤️
 
-P.S. - I hope this birthday is as special as you are, because you deserve nothing less than magic! ✨`
+P.S. - I hope this birthday is as special as you are, because you deserve nothing less than magic...and ofcourse me too ji ! ✨
+
+Attachments - Lots of kisses and hugs and love...💕`
 
   return (
     <div className="fixed inset-0 bg-gradient-to-br from-pink-50 via-purple-50 to-pink-100 z-50 overflow-auto">
@@ -85,10 +87,10 @@ P.S. - I hope this birthday is as special as you are, because you deserve nothin
                 {/* Address */}
                 <div className="absolute bottom-8 left-8 right-8 text-center">
                   <p className="text-red-800 font-[var(--font-dancing-script)] text-lg font-semibold">
-                    To: My Beautiful Dholi Ji
+                    To: My Gorgeous + Cutest Dholi Ji ❤️
                   </p>
                   <p className="text-red-700 font-[var(--font-dancing-script)] text-sm mt-1">
-                    From: Your Loving Admirer ❤️
+                    From: Your Loving Billu Ji ❤️
                   </p>
                 </div>
 

@@ -196,7 +196,7 @@ export default function BirthdayCake({ onClose }: { onClose: () => void }) {
 
                 <div className="mb-6">
                   <p className="text-2xl text-purple-600 font-semibold mb-4 font-[var(--font-dancing-script)]">
-                    🎉 Happy Birthday, Beautiful! 🎉
+                    🎉 Happiest Birthday, Beautiful! 🎉
                   </p>
                   <p className="text-lg text-gray-700 leading-relaxed">
                     May all your dreams come true this year! You deserve all the happiness, love, and magical moments
@@ -222,7 +222,7 @@ export default function BirthdayCake({ onClose }: { onClose: () => void }) {
                     onClick={onClose}
                     className="bg-purple-500 hover:bg-purple-600 text-white px-6 py-3 rounded-full"
                   >
-                    Continue Celebration
+                    Continue Celebration babes..
                   </Button>
                 </div>
               </div>

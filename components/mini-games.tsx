@@ -33,9 +33,9 @@ const quizQuestions: Question[] = [
   {
     id: 3,
     question: "What's our favorite activity together?",
-    options: ["Watching movies", "Cooking disasters", "Taking selfies", "All of the above"],
-    correctAnswer: 3,
-    funnyResponse: "We love doing everything together! Even burning food is fun with you! 😂",
+    options: ["Watching movies/reels", "long Kissingggg", "Taking selfies and laughing..", "hugging a lot.."],
+    correctAnswer: 2,
+    funnyResponse: "I love doing everything together! Even burning food is fun with you! 😂",
   },
   {
     id: 4,
@@ -48,18 +48,21 @@ const quizQuestions: Question[] = [
     id: 5,
     question: "What makes you special?",
     options: ["Your kindness", "Your beauty", "Your heart", "You're perfect as you are"],
-    correctAnswer: 3,
+    correctAnswer: 2,
     funnyResponse: "Your beautiful heart makes everything about you perfect! 💖",
   },
 ]
 
 const scratchMessages = [
-  "You are my sunshine! ☀️",
-  "I love your laugh! 😄",
+  "You are my loveliee sunshine! ☀️",
+  "I love your cutiieee smileeeeeeeee! 😄",
   "You make me complete! 💕",
-  "Forever and always! 💍",
-  "You're my best friend! 👫",
-  "My heart belongs to you! ❤️",
+  "Forever and alwaysss..! 💍",
+  "Rotiiiii khaya kriye and juice piya kriye!!!👫",
+  "My heart belongs only to you! ❤️",
+  "Kisssiiiii chahiyeee....hugs bhi...💕",
+  "I love you my kuchu-puchu ji❤️",
+  "Parisssss....kisssiiiii😄"
 ]
 
 export default function MiniGames({ onClose }: { onClose: () => void }) {

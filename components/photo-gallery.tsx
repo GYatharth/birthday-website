@@ -22,111 +22,116 @@ const photos: Photo[] = [
   {
     id: 2,
     src: "/sunset-beach-couple.png",
-    caption: "Sunset Beach Walk",
-    story: "Walking hand in hand as the sun painted the sky pink",
+    caption: "Cutest Krishna Ji",
+    story: "Completing and Listening to my all wishes",
   },
   {
     id: 3,
     src: "/couple-sharing-ice-cream.jpg",
-    caption: "Ice Cream Date",
-    story: "You stole my heart and my ice cream that day!",
+    caption: "Mushroom Lover",
+    story: "I can be your any fav item ji...just eat me!",
   },
   {
     id: 4,
     src: "/couple-in-park-with-flowers.jpg",
-    caption: "Flower Garden Adventure",
-    story: "Among all the flowers, you were the most beautiful",
+    caption: "Nice khushboooo",
+    story: "Among all the flowers, yours and your hair's scent is the best!",
   },
   {
     id: 5,
-    src: "/couple-cooking.png",
-    caption: "Cooking Disaster",
-    story: "We burned dinner but made perfect memories",
+    src: "/couple-cooking.jpg",
+    caption: "Holding Hands...or Holding my World",
+    story: "Always butterflies in my stomach ji...",
   },
   {
     id: 6,
-    src: "/couple-watching-movie.png",
-    caption: "Movie Night Cuddles",
-    story: "I never watched the movie, I was too busy looking at you",
+    src: "/couple-watching-movie.jpg",
+    caption: "Haiiieeeshaaaaaaa...I'm the NINJAAAA",
+    story: "It was too funny looking at you at that time babieeee...",
   },
   {
     id: 7,
-    src: "/couple-dancing.png",
-    caption: "Our First Dance",
-    story: "Dancing like nobody was watching, loving like never before",
+    src: "/couple-dancing.jpg",
+    caption: "Softieeeeee cheeks",
+    story: "I'm her personal teddy bear...",
   },
-  { id: 8, src: "/couple-with-pets.jpg", caption: "Family Photo", story: "Our little family of love and chaos" },
+  { 
+    id: 8, 
+    src: "/couple-with-pets.jpg",
+    caption: "Sleeping Beautieee",
+    story: "My little bachchaaa after so much tiredness...sleeping peacefully...I can't dare to move when she sleeps...dara kr rkha hua hai Madam Ji ne..."
+  },
   {
     id: 9,
     src: "/couple-birthday-celebration.jpg",
-    caption: "Last Birthday Together",
-    story: "Making wishes that all came true because I have you",
+    caption: "THE EYE-CONTACT",
+    story: "Hmesha main jeeta hun eye contact mein...voh mujhse nazarein hi nhi mila paati ... sharmaati hai.. he he he he heeee",
   },
   {
     id: 10,
     src: "/couple-travel-adventure.jpg",
-    caption: "Adventure Buddies",
-    story: "Every journey is better with you by my side",
+    caption: "Cutieeeeeeennssss...overloaded",
+    story: "With you, every moment feels like magic",
   },
   {
     id: 11,
-    src: "/couple-laughing.png",
+    src: "/couple-laughing.jpg",
     caption: "Silly Moments",
-    story: "Your laugh is my favorite sound in the world",
+    story: "My forever plus one❤️",
   },
   {
     id: 12,
-    src: "/couple-stargazing.png",
-    caption: "Under the Stars",
-    story: "Making wishes on stars, but you were my wish come true",
+    src: "/couple-stargazing.jpg",
+    caption: "Me playing with my teddy...",
+    story: "Falling in love with you again and again...😊",
   },
   {
     id: 13,
-    src: "/placeholder-5b5oo.png",
-    caption: "Morning Coffee Ritual",
-    story: "Good morning kisses and coffee - perfect start to any day",
+    src: "/placeholder-5b5oo.jpg",
+    caption: "You in kurti...uffffff",
+    story: "Good morning kisses and coffee with seeing you in Traditional outfit- perfect start to any day💕",
   },
   {
     id: 14,
-    src: "/placeholder-o7mq4.png",
-    caption: "Dancing in the Rain",
-    story: "Getting soaked but feeling so alive with you",
+    src: "/placeholder-o7mq4.jpg",
+    caption: "Tooooooo close..",
+    story: "Can't bear her hotness + cuteness❤️",
   },
   {
     id: 15,
-    src: "/placeholder-cujdg.png",
-    caption: "Surprise!",
-    story: "The look on your face when I surprised you - priceless",
+    src: "/placeholder-cujdg.jpg",
+    caption: "Open fresh-washed hairsss!",
+    story: "Your leaning on my chest...feels: Two souls, one heart 💕",
   },
   {
     id: 16,
-    src: "/placeholder-lgjgh.png",
-    caption: "Cozy Winter Days",
-    story: "Wrapped in blankets and wrapped in your love",
+    src: "/placeholder-lgjgh.jpg",
+    caption: "My safe place, my happy place 🏡❤️",
+    story: "",
   },
   {
     id: 17,
-    src: "/placeholder-qfxys.png",
+    src: "/placeholder-qfxys.jpg",
     caption: "Spring Blossoms",
-    story: "Like flowers blooming, our love keeps growing",
+    story: "Life’s better when we’re together 🌸",
   },
   {
     id: 18,
-    src: "/placeholder-pdkc1.png",
-    caption: "Summer Adventures",
-    story: "Hot days, cool nights, and warm hearts",
+    src: "/placeholder-pdkc1.jpg",
+    caption: "Us against the world 🌍💑",
+    story: "",
   },
   {
     id: 19,
-    src: "/placeholder-a3i0x.png",
+    src: "/placeholder-a3i0x.jpg",
     caption: "Autumn Colors",
-    story: "Falling leaves, falling deeper in love",
+    story: "You’re my favorite reason to smile 😊",
   },
   {
     id: 20,
-    src: "/placeholder-w84vj.png",
-    caption: "Dreaming Together",
-    story: "Planning our forever, one dream at a time",
+    src: "/placeholder-w84vj.jpg",
+    caption: "And finallyyy...THE KISSSSSS...",
+    story: "Its just beginning babieee girl...we still have to go tooo far..just remember...I'm always with you in your journey of life💑",
   },
 ]
 
@@ -161,11 +166,11 @@ export default function PhotoGallery({ onClose }: { onClose: () => void }) {
         {/* Current Photo Display */}
         <div className="max-w-4xl mx-auto mb-8">
           <Card className="p-6 bg-white/90 backdrop-blur-sm shadow-xl rounded-3xl">
-            <div className="relative">
+            <div className="relative flex justify-center items-center">
               <img
                 src={currentPhoto.src || "/placeholder.svg"}
                 alt={currentPhoto.caption}
-                className="w-full h-96 object-cover rounded-2xl cursor-pointer hover:scale-105 transition-transform"
+                className="w-full max-h-[600px] object-contain rounded-2xl bg-black"
                 onClick={() => setShowFullscreen(true)}
               />
 
@@ -216,7 +221,7 @@ export default function PhotoGallery({ onClose }: { onClose: () => void }) {
                 <img
                   src={photo.src || "/placeholder.svg"}
                   alt={photo.caption}
-                  className="w-full h-32 object-cover rounded-xl"
+                  className="w-full h-32 object-contain bg-gray-100 rounded-xl"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent rounded-xl" />
                 <div className="absolute bottom-2 left-2 right-2">
